@@ -4,8 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruancunha&label=Profile%20views&color=0e75b6&style=flat" alt="ruancunha" /> </p>
 
 - 🌱 I’m currently learning **React, Node.JS and Python**
-
+<!--
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ruan-cunha/](https://www.linkedin.com/in/ruan-cunha/)
+-->
 
 - 💬 Ask me about **UX, UI and front end development**
 
