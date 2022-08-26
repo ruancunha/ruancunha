@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ruan Cunha</h1>
-<h3 align="center">Full stack developer, designer and former (but forever be) English teacher</h3>
+<h3 align="center">🇺🇲 Full stack developer, designer and former (but forever be) English teacher</h3>
+<h3 align="center">🇧🇷 Desenvolvedor web Full stack, designer e eterno professor de inglês</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
