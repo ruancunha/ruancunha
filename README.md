@@ -24,6 +24,6 @@
 <p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" /> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" /> </a> </p>
 
 <div align="center" display="inline-block">
-  <a href="https://github.com/ruancunha">
+  <a href="https://github.com/RuanCunha">
   <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api?username=RuanCunha&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="ruancunha" /><img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs?username=RuanCunha&theme=gotham&show_icons=true&locale=en&layout=compact" alt="ruancunha" />
 </div>
