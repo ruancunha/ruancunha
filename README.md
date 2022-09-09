@@ -26,5 +26,5 @@
 <div align="center" display="inline-block">
   <a href="https://github.com/ruancunha">
   <img height="140px" width="50%" align="left" margin="0" padding="5px" src="https://github-readme-stats.vercel.app/api?username=ruancunha&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide=issues&locale=pt-br" /> 
-  <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruancunha&theme=gotham&show_icons=true&locale=en&layout=compact" alt="ruancunha" />
+  <img height="170em" width="400em" align="right" margin="0" padding="5px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruancunha&theme=gotham&show_icons=true&locale=en&layout=compact" alt="ruancunha" />
 </div>
