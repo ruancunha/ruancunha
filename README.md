@@ -3,6 +3,7 @@
 <h3 align="left">🇧🇷 Desenvolvedor web Full stack, designer e eterno professor de inglês</h3>
 
 ---------------------------------
+<h2>Check out my portfolio <a href="https://ruancunha.github.io/" target="blank">here!</a></h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
