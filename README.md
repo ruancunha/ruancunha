@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ruan-cunha" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruan-cunha" height="18" /></a> Reach me through <a href="https://www.linkedin.com/in/ruan-cunha/" target="blank"><b>LinkedIn</b></a>
+<a href="https://linkedin.com/in/ruan-cunha" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruan-cunha" height="18" /></a> Reach me through <a href="https://www.linkedin.com/in/ruan-v-cunha/" target="blank"><b>LinkedIn</b></a>
 </p>
 
 📫 Or send me an e-mail **ruanvcunha@hotmail.com**
